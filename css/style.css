@@ -13,7 +13,7 @@ h4 {
 }
 
 .layout_padding {
-  padding: 75px 0;
+  padding:15px 0;
 }
 
 .layout_padding2 {
@@ -330,7 +330,7 @@ a:focus {
 }
 
 .welcome_container {
-  padding: 100px 0;
+  padding: 15px 0;
 }
 
 .welcome_container>* {
