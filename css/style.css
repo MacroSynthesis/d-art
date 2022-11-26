@@ -493,4 +493,18 @@ a:focus {
   color: #000;
 }
 
+.black {
+  color: #000 !important;
+}
+
+.img-container {
+  padding: 40px 10px 60px 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.img-container2 {
+  padding: 40px 10px 40px 10px;
+}
+
 /* end footer section*/
